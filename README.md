@@ -30,9 +30,9 @@ Refer to the API Documentation here,
 
 https://documenter.getpostman.com/view/6700377/TVKD3y9t
 
-First, populate the DB by uploading the CSV file downloaded from the dataset link above.
+First, populate the DB by uploading the CSV file downloaded from the dataset link above using the Create API.
 
-Pause, Resume, and Stop the Task by using the Task ID visible in the terminal instance and appropriate API request.
+Pause, Resume, and Stop the Task by using the Task ID visible in the terminal instance and appropriate APIs. request.
 
 Notice that the transaction is atomic and stopping midway does not cause partial write.
 
